@@ -1,2 +1,2 @@
-# auer-dynamic-hedonics
-Online Appendix for Dynamics in Hedonic Valuation
+# When Do Habits Matter? (Auer)
+Online Appendix for 'When Do Habits Matter?'
